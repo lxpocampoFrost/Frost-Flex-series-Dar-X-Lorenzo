@@ -185,3 +185,16 @@ For components
     max-width: max-content;
     margin: 0 auto;
 }
+
+/*
+======================
+    Media Queries
+======================
+*/
+@media only screen and (min-width: 1440px) {
+    .floating-item.keyboard {
+        width: 1925px;
+        height: 727px;
+    }
+}
+
